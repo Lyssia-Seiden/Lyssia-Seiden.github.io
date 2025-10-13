@@ -1,5 +1,27 @@
 Incoming UCSB freshman, aspiring software engineer with interests in systems, computer architecture, robotics, controls, and computer hardware.
 
+## Work Experience
+
+### Atomic Machines
+
+Software Intern
+Summer 2025
+
+- Migrated internal embedded RPC framework, including bugfixing and feature development on custom C++ and Python codegen, written in Go.
+- Led hardware in the loop testing, including standardizing documentation, writing and running tests, and fixing discovered bugs.
+- Improved motor control in embedded system, including homing reliability upgrades and PID tuning.
+- Created live data plotting application for machine tuning and debugging.
+
+
+### Inaugural aCADemy Summer Camp
+
+Lead
+June 2023
+
+- Organized other high school students to make presentations and materials for teaching CAD using Onshape to middle schoolers.
+- Created and delivered presentations and self-paced teaching.
+
+
 ## Projects
 
 ### FRC
@@ -36,23 +58,6 @@ Sept 2023-
 - Used Onshape CAD to create wiring mounts for vehicle.
 - Attended lectures by UCSD professor Jack Silberman on VMs, AI, and GNSS.
 
-## Work Experience
-
-### Mentoring
-
-Mentor for elementary and middle school robotics teams.
-Aug 2021-Dec 2022
-
-- Taught new programmers and engineers using Java or Scratch.
-
-### Inaugural aCADemy Summer Camp
-
-Lead
-June 2023
-
-- Organized other high school students to make presentations and materials for teaching CAD using Onshape to middle schoolers.
-- Created and delivered presentations and self-paced teaching.
-
 ## Education
 
 ### Piedmont High School
@@ -69,9 +74,10 @@ Online Courses: AP Physics 1, AP Physics C Mechanics
 
 ## Languages
 
-- Java
 - Rust
+- Java
 - C++
 - Python
+- Go
 - Typescript
-- React
+
