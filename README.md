@@ -1,3 +1,3 @@
-# Lewis Seiden Website
+# Lyssia Seiden Website
 
 ## Resume, Portfolio, etc.

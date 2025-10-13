@@ -18,12 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Lewis Seiden
+title: Lyssia Seiden
 email: lewy@seiden.us
-description: "UCSB CS"
+description: "UCSB CCS Computing"
 seurl: ""
 url: ""
-github_username:  Lewis-Seiden
+github_username:  Lyssia-Seiden
 
 
 # Build settings

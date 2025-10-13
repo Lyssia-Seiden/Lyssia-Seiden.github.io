@@ -71,7 +71,7 @@ Online Courses: AP Physics 1, AP Physics C Mechanics
 
 - Java
 - Rust
-- Typescript
-- React
 - C++
 - Python
+- Typescript
+- React
