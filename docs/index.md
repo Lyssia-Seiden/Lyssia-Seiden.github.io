@@ -1,6 +1,6 @@
 Incoming UCSB freshman, aspiring software engineer with interests in systems, computer architecture, robotics, controls, and computer hardware.
 
-## Work Experience
+## Experience
 
 ### Atomic Machines
 
@@ -11,18 +11,6 @@ Summer 2025
 - Led hardware in the loop testing, including standardizing documentation, writing and running tests, and fixing discovered bugs.
 - Improved motor control in embedded system, including homing reliability upgrades and PID tuning.
 - Created live data plotting application for machine tuning and debugging.
-
-
-### Inaugural aCADemy Summer Camp
-
-Lead
-June 2023
-
-- Organized other high school students to make presentations and materials for teaching CAD using Onshape to middle schoolers.
-- Created and delivered presentations and self-paced teaching.
-
-
-## Projects
 
 ### FRC
 
@@ -50,6 +38,14 @@ Sept 2023-
 - Developed and maintained backend using C++ templates to allow trajopt problem to be solved using either CasADi or Sleipnir nonlinear solver.
 - Contributions include obstacle support, heuristics to improve trajectory generation efficiency, keybinds and other ux improvements.
 
+### Inaugural aCADemy Summer Camp
+
+Lead
+June 2023
+
+- Organized other high school students to make presentations and materials for teaching CAD using Onshape to middle schoolers.
+- Created and delivered presentations and self-paced teaching.
+
 ### UCSD COSMOS Cluster 11 - Autonomous Vehicles
 
 - Lead group of 5 during the summer to program autonomous model car.
@@ -59,6 +55,10 @@ Sept 2023-
 - Attended lectures by UCSD professor Jack Silberman on VMs, AI, and GNSS.
 
 ## Education
+
+### UC Santa Barbara
+
+Freshman in College of Creative Studies Computing major.
 
 ### Piedmont High School
 
